@@ -1,7 +1,7 @@
 ### Hello! :)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jamesminardi/)
-[![Website shields.ioe](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://jamesminardi.com/)
+[![Website shields.ioe](https://img.shields.io/website?down_color=lightgrey&down_message=offline&style=flat-square&up_color=green&up_message=online&url=https%3A%2F%2Fjamesminardi.com)](http://jamesminardi.com/)
 
 
 <!--
