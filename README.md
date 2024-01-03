@@ -1,4 +1,4 @@
-[![Header](./resources/header_1.png)]
+![Header](./resources/header_1.png)
 
 ![](https://komarev.com/ghpvc/?username=jamesminardi&style=flat-square&label=Views)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jamesminardi/)
