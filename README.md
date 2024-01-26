@@ -6,7 +6,7 @@
 
 Hello! I'm a Computer Engineering student passionate about developing solutions for computer graphics and GPU & ML architecture.
 
-- 🔭 I’m currently working on a [C++ cross-platform WebGPU app](https://github.com/jamesminardi/webgpu-renderer)
+- 🔭 I’m currently working on [procedural terrain generation in C++ for WebGPU](https://github.com/jamesminardi/webgpu-renderer)
 
 - 👨‍💻 I document some of my projects and expereiences at [www.jamesminardi.com](www.jamesminardi.com)
 
