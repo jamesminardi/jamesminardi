@@ -6,11 +6,11 @@
 
 Hello! I'm a Computer Engineering student passionate about developing solutions for computer graphics and GPU & ML architecture.
 
-- 🔭 I’m currently working on [procedural terrain generation in C++ for WebGPU](https://github.com/jamesminardi/webgpu-renderer)
+- I’m currently working on [procedural terrain generation in C++ for WebGPU](https://github.com/jamesminardi/webgpu-renderer)
 
-- 👨‍💻 I document some of my projects and expereiences at [www.jamesminardi.com](www.jamesminardi.com)
+- I document some of my projects and expereiences at [jamesminardi.com](www.jamesminardi.com)
 
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jamesminardi/)
+- How to reach me: [LinkedIn](https://www.linkedin.com/in/jamesminardi/)
 
-- 🎉 In my free time I enjoy playing volleyball, listening to music, and making coffee :)
+- In my free time I enjoy playing volleyball, listening to music, and making coffee :)
 
